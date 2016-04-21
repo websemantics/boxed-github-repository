@@ -4,7 +4,7 @@
  / / __/ / __/ __ \/ / / / __ \     /  \_______\
 / /_/ / / /_/ / / / /_/ / /_/ /     \  / BOXED /
 \____/_/\__/_/ /_/\__,_/_.___/       \/_______/
-Repository                          
+{{ title }} Repository                          
 
 ```
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
